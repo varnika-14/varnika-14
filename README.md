@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pathuri Varnika</h1>
 
 <h3 align="center">
-Computer Science Undergraduate | Full Stack Developer | Problem Solver
+Computer Science Undergraduate | Problem Solver
 </h3>
 
 ---
